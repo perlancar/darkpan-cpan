@@ -13115,8 +13115,6 @@
     <type>author</type>
     <has_cpandir>1</has_cpandir>
   </cpanid>
-<<<<<<< HEAD
-=======
   <cpanid>
     <id>PERLANCAR</id>
     <type>author</type>
@@ -13232,55 +13230,4 @@
     <type>author</type>
     <has_cpandir>1</has_cpandir>
   </cpanid>
-  <cpanid>
-    <id>PERLANCAR</id>
-    <type>author</type>
-    <has_cpandir>1</has_cpandir>
-  </cpanid>
-  <cpanid>
-    <id>PERLANCAR</id>
-    <type>author</type>
-    <has_cpandir>1</has_cpandir>
-  </cpanid>
-  <cpanid>
-    <id>PERLANCAR</id>
-    <type>author</type>
-    <has_cpandir>1</has_cpandir>
-  </cpanid>
-  <cpanid>
-    <id>PERLANCAR</id>
-    <type>author</type>
-    <has_cpandir>1</has_cpandir>
-  </cpanid>
-  <cpanid>
-    <id>PERLANCAR</id>
-    <type>author</type>
-    <has_cpandir>1</has_cpandir>
-  </cpanid>
-  <cpanid>
-    <id>PERLANCAR</id>
-    <type>author</type>
-    <has_cpandir>1</has_cpandir>
-  </cpanid>
-  <cpanid>
-    <id>PERLANCAR</id>
-    <type>author</type>
-    <has_cpandir>1</has_cpandir>
-  </cpanid>
-  <cpanid>
-    <id>PERLANCAR</id>
-    <type>author</type>
-    <has_cpandir>1</has_cpandir>
-  </cpanid>
-  <cpanid>
-    <id>PERLANCAR</id>
-    <type>author</type>
-    <has_cpandir>1</has_cpandir>
-  </cpanid>
-  <cpanid>
-    <id>PERLANCAR</id>
-    <type>author</type>
-    <has_cpandir>1</has_cpandir>
-  </cpanid>
->>>>>>> d947e72030a37328d2ee815a2eddc7bd1ae20e9b
 </cpan-whois>
